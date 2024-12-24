@@ -11,7 +11,7 @@ const SellerDetails = () => {
             <div>
               <img
                 className="w-full h-[230px]"
-                src="http://localhost:3000/images/demo.jpg"
+                src="http://localhost:3001/images/demo.jpg"
                 alt=""
               />
             </div>
